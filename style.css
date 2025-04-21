@@ -358,6 +358,11 @@ video{
 .lastdiv .left p,.lastdiv .right p{
     font-size: 4vw;
 }
+.landmark h1{
+    text-align: center;
+    font-size: 2.4vw;
+    font-weight: 500;
+}
 
 @media (min-width: 870px) {
     body,main{
@@ -691,5 +696,8 @@ video{
     }
     .lastdiv .left p,.lastdiv .right p{
         font-size: 1.2vw;
+    }
+    .landmark h1{
+        font-size: 0.8vw;
     }
 }
